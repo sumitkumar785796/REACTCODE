@@ -1,0 +1,14 @@
+import React from 'react'
+import NavBar from './NavBar'
+import SideBar from './SideBar'
+
+const Dashboard = (props) => {
+  return (
+    <>
+        <NavBar/>
+        <SideBar/>
+    </>
+  )
+}
+
+export default Dashboard

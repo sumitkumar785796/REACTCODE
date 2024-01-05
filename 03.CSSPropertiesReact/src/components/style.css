@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+}
+
+
+#myId {
+    color: red;
+    background-color: #282c34;
+    width: 50%;
+    margin: auto;
+}

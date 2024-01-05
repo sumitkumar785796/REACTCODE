@@ -19,10 +19,6 @@ If you have npx and Node.js installed.
 
 you can create a React application by using npx create-react-app my-react-app.
 
-![image](https://github.com/sumitkumar785796/REACTCODE/assets/76932212/cfaeaecf-b0a8-4093-97ff-5447f04cf533)
-
-
-
 Run the React Application
 
 Run this command cd my-react-app.
@@ -39,6 +35,9 @@ A new browser window will pop up with your newly created React App! If not, open
 
 ![image](https://github.com/sumitkumar785796/REACTCODE/assets/76932212/506fae32-0f49-4ccb-85ce-c4b5991b4327)
 
+This is the directory of React app
+
+![image](https://github.com/sumitkumar785796/REACTCODE/assets/76932212/cfaeaecf-b0a8-4093-97ff-5447f04cf533)
 
 Modify the React Application(Print hello world!!!)
 
